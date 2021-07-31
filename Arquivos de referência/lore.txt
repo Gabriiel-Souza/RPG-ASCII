@@ -1,0 +1,8 @@
+* é um aluno de Ciência da Computação da UCB que encontrou um portal dentro da Universidade. 
+Ele ficou abismado com a situação e quis dar uma olhada,porém, ao tropeçar no chão, 
+ele acabou caindo no portal e foi parar em outra dimensão!
+Mesmo com toda a confusão, ele pôde reparar ao seu redor, logo ele percebeu que haviam 
+vários monstros por ali! Contudo, não era possível enxergar com clareza a forma deles.
+Isso foi devido a um feitiço lançado por uma bruxa naquela região e qualquer um que não
+pertencesse àquele lugar apenas veria uma forma fantasmagórica, como um vulto.
+Será que * conseguirá escapar desse mundo?
